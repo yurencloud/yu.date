@@ -1,15 +1,14 @@
 {
   "name": "yu.date",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "date util",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [
-    "yu.validation",
-    "validation",
-    "validate",
+    "yu.date",
+    "date",
     "yurencloud",
     "yuren",
     "yu",
